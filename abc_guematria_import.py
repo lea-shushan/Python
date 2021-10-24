@@ -1,0 +1,3 @@
+#Lea Shushan
+
+abc = 'abcdefghijklmnopqrstuvwxyz'
